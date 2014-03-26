@@ -1,3 +1,19 @@
+gnome-power-manager (3.12.0-1blankon1) tambora; urgency=low
+
+  * New upstream release.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Thu, 27 Mar 2014 02:26:13 +0700
+
+gnome-power-manager (3.12.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Update build-dependencies according to configure.ac changes:
+    - Bump libglib2.0-dev to (>= 2.36)
+    - Bump intltool to (>= 0.50.0)
+  * Bump dependency on upower to >= 0.99
+
+ -- Andreas Henriksson <andreas@fatal.se>  Mon, 24 Mar 2014 22:26:45 +0100
+
 gnome-power-manager (3.10.0-0blankon1) suroboyo; urgency=low
 
   * New Upstream Release 
